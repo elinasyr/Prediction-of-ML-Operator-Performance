@@ -1,0 +1,14 @@
+{
+    "random_forest": {
+        "num_samples_max": "10**5",
+        "num_samples_min": "10**4",
+        "num_features_max": "2*10**1",
+        "num_features_min": "10**1"
+    },
+    "k_means": {
+        "num_samples_max": 100,
+        "num_samples_min": 100,
+        "num_features_max": 10,
+        "num_features_min": 2
+    }
+}

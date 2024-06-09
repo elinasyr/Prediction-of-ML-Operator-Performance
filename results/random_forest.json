@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2023-09-10 20:43:28.889848",
+        "totalTime": 6.401927709579468,
+        "memoryUsage": 5531791,
+        "num_samples": "38611",
+        "num_features": "16",
+        "dataset_size": "14.051264"
+    },
+    {
+        "timestamp": "2023-09-10 20:43:51.870686",
+        "totalTime": 6.183448314666748,
+        "memoryUsage": 4290270,
+        "num_samples": "31926",
+        "num_features": "15",
+        "dataset_size": "10.91275"
+    }
+]
