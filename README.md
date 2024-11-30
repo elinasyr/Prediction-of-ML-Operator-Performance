@@ -1,6 +1,7 @@
 # Prediction of ML Operator Performance
 
-This project was undertaken as part of my engineering studies at the School of Electrical and Computer Engineering, National Technical University of Athens. The aim of the project is to predict the performance of Machine Learning (ML) operators executed in big data analytics runtimes (such as Apache Spark or Apache Flink) without actually executing them. This involves measuring the execution progress of these operators over time and utilizing a learning algorithm to create a predictive model.
+This project was undertaken as part of my engineering studies at the School of Electrical and Computer Engineering, National Technical University of Athens. The aim of the project is to predict the performance of Machine Learning (ML) operators executed in big data analytics runtimes (such as Apache Spark or Apache Flink) without actually executing them. This involves measuring the execution progress of these operators over time and utilizing a learning algorithm to create a predictive model. We also wrote a [report](https://github.com/elinasyr/Prediction-of-ML-Operator-Performance/blob/main/D4a__Prediction_of_ML_Operator_Performance.pdf) about this.
+
 
 ## Project Overview
 
